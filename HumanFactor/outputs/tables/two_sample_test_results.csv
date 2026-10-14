@@ -1,0 +1,3 @@
+"Test","Statistic","p_value","Decision"
+"Welch t-test gpa (Low vs High stress)",-29.3694,0,"Reject H0"
+"Prop test HA (Low vs High stress)",69.5222,0,"Reject H0"

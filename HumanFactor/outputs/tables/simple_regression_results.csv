@@ -1,0 +1,2 @@
+Response,Predictor,Intercept,Slope,R_squared,Correlation_r
+gpa,study_hours_per_day,1.9642,0.1541,0.5394,0.734

@@ -1,0 +1,12 @@
+Experiment,Requirement,Dataset_Needed,Status
+1,Data types/import/export,Main dataset,COMPLETED
+2,Summary statistics/tabulation/visualization,Main dataset,COMPLETED
+3,Correlation/simple regression/R2,Main dataset,COMPLETED
+4,Multiple linear regression,Main dataset,PARTIALLY COMPLETED
+5,Binomial distribution fit,Main dataset - no binary variable exists,PLANNED
+6,Normal + Poisson distribution,Main dataset (Normal) / auxiliary needed (Poisson - no count variable),PLANNED
+7,One-sample mean/proportion test,Main dataset,PLANNED
+8,Two-sample means/proportion test,Main dataset (grouped),PLANNED
+9,Independent/dependent t-test,Main dataset (independent) / auxiliary needed (paired - no repeated measures),PLANNED
+10,Chi-square GOF + contingency,Main dataset (derived categorical GPA tier),PLANNED
+11,ANOVA: CRD + RBD + Latin Square,"Main dataset (CRD on stress_level) / auxiliary needed (RBD, Latin Square - no blocking factors)",PLANNED

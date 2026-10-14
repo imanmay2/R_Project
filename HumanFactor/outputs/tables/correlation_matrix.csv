@@ -1,0 +1,7 @@
+"","study_hours_per_day","extracurricular_hours_per_day","sleep_hours_per_day","social_hours_per_day","physical_activity_hours_per_day","gpa"
+"study_hours_per_day",1,-0.0026,0.0267,-0.1378,-0.4881,0.7345
+"extracurricular_hours_per_day",-0.0026,1,0.0088,-0.1391,-0.37,-0.0322
+"sleep_hours_per_day",0.0267,0.0088,1,-0.1936,-0.4703,-0.0043
+"social_hours_per_day",-0.1378,-0.1391,-0.1936,1,-0.4171,-0.0857
+"physical_activity_hours_per_day",-0.4881,-0.37,-0.4703,-0.4171,1,-0.3412
+"gpa",0.7345,-0.0322,-0.0043,-0.0857,-0.3412,1

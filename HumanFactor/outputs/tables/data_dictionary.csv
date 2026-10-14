@@ -1,0 +1,9 @@
+Variable,Data_Type,Unique_Values,Missing_Count,Min,Max,Example_Values
+Student_ID,numeric,2000,0,1,2000,"1, 2, 3"
+Study_Hours_Per_Day,numeric,51,0,5,10,"6.9, 5.3, 5.1"
+Extracurricular_Hours_Per_Day,numeric,41,0,0,4,"3.8, 3.5, 3.9"
+Sleep_Hours_Per_Day,numeric,51,0,5,10,"8.7, 8, 9.2"
+Social_Hours_Per_Day,numeric,61,0,0,6,"2.8, 4.2, 1.2"
+Physical_Activity_Hours_Per_Day,numeric,118,0,0,13,"1.8, 3, 4.6"
+GPA,numeric,158,0,2.24,4,"2.99, 2.75, 2.67"
+Stress_Level,character,3,0,NA,NA,"Moderate, Low, High"

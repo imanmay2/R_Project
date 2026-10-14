@@ -1,0 +1,6 @@
+"Predictor","VIF","Interpretation"
+"study_hours_per_day",Inf,"Severe"
+"sleep_hours_per_day",Inf,"Severe"
+"extracurricular_hours_per_day",Inf,"Severe"
+"social_hours_per_day",Inf,"Severe"
+"physical_activity_hours_per_day",Inf,"Severe"

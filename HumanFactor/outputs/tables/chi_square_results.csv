@@ -1,0 +1,3 @@
+"Test","Chi_sq","df","p_value","Effect_CramersV","Decision"
+"GoF: gpa Tiers uniform",571.639,2,0,NA,"Reject H0"
+"Independence: Stress x gpa Tier",558.163,4,0,0.3736,"Reject H0"
